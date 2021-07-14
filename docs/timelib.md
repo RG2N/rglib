@@ -4,10 +4,24 @@
 ## TimeLib
 
 ### Functions:
-#### lib.msToS(milliseconds); 
+#### lib.msToS(); 
 Converts milliseconds to seconds.
 
 Example:
 ```
-console.log(lib.msToS(5000)); // Prints 5
+console.log(lib.msToS(5000)); // Returns 5
+```
+#### lib.todaysDate();
+Gets raw date string.
+
+Example:
+```
+console.log(lib.todaysDate()); // Returns Raw Date
+```
+#### lib.formatDate();
+Formats raw date to date.
+
+Example:
+```
+console.log(lib.formatDate(lib.todaysDate())); // Returns Date
 ```
