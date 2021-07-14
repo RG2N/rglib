@@ -4,7 +4,8 @@
 ## TimeLib
 
 ### Functions:
-lib.msToS(milliseconds); Converts milliseconds to seconds.
+#### lib.msToS(milliseconds); 
+Converts milliseconds to seconds.
 
 Example:
 ```
