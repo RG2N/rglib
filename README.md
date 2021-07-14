@@ -11,4 +11,4 @@ Import Time Management:
 
 Documents:
 
-* [TimeLIB](http://github.com)
+* [TimeLIB](https://github.com/RG2N/rglib/blob/main/docs/timelib.md)
