@@ -3,6 +3,11 @@
 # RGLib
 ## TimeLib
 
+### Index:
+[msToS](https://github.com/RG2N/rglib/blob/main/docs/timelib.md#libmstos)
+[msToS](https://github.com/RG2N/rglib/blob/main/docs/timelib.md#libmstos)
+[msToS](https://github.com/RG2N/rglib/blob/main/docs/timelib.md#libmstos)
+
 ### Functions:
 #### lib.msToS(); 
 Converts milliseconds to seconds.
