@@ -6,9 +6,9 @@
 ### Index:
 [msToS](https://github.com/RG2N/rglib/blob/main/docs/timelib.md#libmstos)
 
-[msToS](https://github.com/RG2N/rglib/blob/main/docs/timelib.md#libmstos)
+[todaysDate](https://github.com/RG2N/rglib/blob/main/docs/timelib.md#libtodaysdate)
 
-[msToS](https://github.com/RG2N/rglib/blob/main/docs/timelib.md#libmstos)
+[formatDate](https://github.com/RG2N/rglib/blob/main/docs/timelib.md#libformatdate)
 
 ### Functions:
 #### lib.msToS(); 
